@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+
+# .env - this file in real project should be also ignored, for this educational project I do not.
